@@ -1,0 +1,9 @@
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Release\ImageTest.exe.config
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Release\Images\Ima1.png
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Release\ImageTest.exe
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Release\ImageTest.pdb
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Release\ImageTest.Form1.resources
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Release\ImageTest.Properties.Resources.resources
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Release\ImageTest.csproj.GenerateResource.Cache
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Release\ImageTest.exe
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Release\ImageTest.pdb

@@ -1,0 +1,14 @@
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Debug\ImageTest.exe.config
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Debug\ImageTest.exe
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Debug\ImageTest.pdb
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Debug\ImageTest.csprojResolveAssemblyReference.cache
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Debug\ImageTest.Form1.resources
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Debug\ImageTest.Properties.Resources.resources
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Debug\ImageTest.csproj.GenerateResource.Cache
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Debug\ImageTest.exe
+c:\users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\obj\Debug\ImageTest.pdb
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Debug\Images\Ima1.png
+C:\Users\minh.ld\documents\visual studio 2013\Projects\TestImageSoln\ImageTest\bin\Debug\Images\Ima2.png
+D:\Projects\AppGameImage\TestImageSoln\ImageTest\bin\Debug\ImageTest.exe.config
+D:\Projects\AppGameImage\TestImageSoln\ImageTest\obj\Debug\ImageTest.exe
+D:\Projects\AppGameImage\TestImageSoln\ImageTest\obj\Debug\ImageTest.pdb
